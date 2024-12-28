@@ -156,3 +156,5 @@ function StoppaCalculator() {
     </div>
   );
 }
+
+ReactDOM.render(<StoppaCalculator />, document.getElementById('root'));
